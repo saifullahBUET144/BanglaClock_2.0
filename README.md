@@ -5,3 +5,5 @@ The project is based on ESP-8266 microcontroller and it’s prime function is to
 The microprocessor also features WiFi connectivity allowing it to connect to the internet
 and work as an IoT device. It collects time and date data from online servers, updates
 regularly and works flawlessly. The physical dimensions of the project is compact and easy mountable.
+
+The videos of the project demo: https://youtube.com/playlist?list=PLL8jJ_9NaG5Ooqz1zh9p93BjtxgUzRQ-G&si=ZO2Af5tG743SykKP
